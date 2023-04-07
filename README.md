@@ -1,13 +1,13 @@
 # Cryptoexpress
 ## How to install
-1.clone this project git clone https://github.com/radhathakare/Cryptoexpress.git
-2.Install dependencies npm install
-3.Start server react-native start
-4.If Emulator is running react-native run-android
+1. clone this project git clone https://github.com/radhathakare/Cryptoexpress.git
+2. Install dependencies npm install
+3. Start server react-native start
+4. If Emulator is running react-native run-android
 
 ## Additional Dependencies
-1.react-native-elements
-2.web3
+1. react-native-elements
+2. web3
 
 
 
